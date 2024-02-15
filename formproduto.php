@@ -5,6 +5,7 @@
 	<?php
 		include 'header.php';
 	?>
+</head>
 <body>
 	<div class="wrapper">
 	<?php include 'menu.php' ?>
